@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">闪讯拨号</string>
+
+    <string name="action_settings">设置</string>
+    <string name="action_about">关于</string>
+    <string name="account">账号</string>
+    <string name="pwd">密码</string>
+    <string name="dial">路由拨号</string>
+    <string name="router_psw">路由器密码</string>
+    <string name="host">路由器地址</string>
+    <string name="save">保存</string>
+    <string name="about">本程序为TP-Link路由器拨号方案，路由器地址默认为192.168.1.1</string>
+    <string name="extra">BY 影从云集 Email:1037537109@qq.com\n闪讯加密算法核心来自网络，仅移植为Java代码\n路由器配置方案通过分析路由器Javascript代码和抓包结果得出\n源码及过程：www.gohigh.top</string>
+    <string name="status">网络状态</string>
+</resources>
